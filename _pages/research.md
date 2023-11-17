@@ -4,24 +4,16 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 ---
-title: "Human Behavior Recognition"
-permalink: /research/
-
+Human Behavior Recognition
 ---
-title: "Microwave Passive Sensing Topologies"
-permalink: /research/
+Microwave Passive Sensing Topologies
 ---
-
 ---
-title: "Structural Health Monitoring"
-permalink: /research/
+Structural Health Monitoring
 ---
-
 ---
-title: "Reflective Intelligent Surfaces"
-permalink: /research/
+Reflective Intelligent Surfaces
 ---
 
 {% include base_path %}
