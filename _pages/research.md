@@ -1,11 +1,4 @@
----
-# layout: archive
-# title: "Research"
-# permalink: /research/
-# author_profile: true
----
----
-Human Behavior Recognition
+# Human Behavior Recognition
 ---
 Microwave Passive Sensing Topologies
 ---
