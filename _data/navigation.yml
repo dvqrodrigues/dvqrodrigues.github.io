@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Courses"
-    url: /teaching/ 
+  #- title: "Courses"
+  # url: /teaching/ 
 
   - title: "CV"
     url: https://minersutep-my.sharepoint.com/:b:/g/personal/drodrigues_utep_edu/ETFhr_6upFhOlH0ZO81Nu_UBmXnlxbLX1D237JoAuCjZnA?e=lZzSKX
