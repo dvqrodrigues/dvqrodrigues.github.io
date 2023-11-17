@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Select Research Topics"
+title: "Human Behavior Recognition"
 permalink: /research/
 author_profile: true
 ---
-
-Human Behavior Recognition
-======
   ![Block diagram for radar-based exercise monitoring](/images/Exercise.png){: .align-right width="500"} ![Block diagram for radar-based hand gesture recognition](/images/Picture1.png){: .align-right width="500"} Medical studies suggest that physical activity lowers the risks of serious health problems, such as heart disease, depression, and dementia. Hand gestures are probably the most intuitive way to communicate in a nonverbally manner. They can be used to remotely control electronic devices such as cell phones, smart watches, TVs, and personal computers. Towards this end, I have studied the use of frequency-modulated continuous-wave (FMCW) radars for physical activity recognition and hand gesture identification in multi-person scenarios. To date, most of similar applications only consider scenarios with one human being in the scene. The proposed approaches benefitted from the range discrimination capability of FMCW radars and spectral power to differentiate the exercises and the hand gestures of interest from other interferences. 
   
 Oportunistic RF Sensing
