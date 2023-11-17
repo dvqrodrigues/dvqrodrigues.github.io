@@ -83,11 +83,14 @@ author:
   name             : "Davi V. Q. Rodrigues"
   avatar           : 
   bio              : 
-  location         : "El Paso,Texas,USA"
+  location         : "El Paso, Texas, USA"
+  
   employer         : "University of Texas at El Paso"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rks__UkAAAAJ&hl=en&oi=ao"
+  
   email            : "drodrigues@utep.edu"
+  
   researchgate     : "https://www.researchgate.net/profile/Davi-Rodrigues-3"
   uri              :
   bitbucket        :
@@ -103,6 +106,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/davivqrodrigues/"
+  
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8730-5891"
   pinterest        :
   soundcloud       :
