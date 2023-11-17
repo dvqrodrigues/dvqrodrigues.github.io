@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Microwave Circuits & Sensing Systems"
-title_separator          : "-"
+title_separator          : 
 name                     : &name "Davi V. Q. Rodrigues"
 description              : &description "Assistant Professor"
 url                      : "https://dvqrodrigues.github.io/"
