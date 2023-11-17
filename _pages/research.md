@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Research"
+excerpt: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
 Human Behavior Recognition
 ======
   Medical studies suggest that physical activity lowers the risks of serious health problems, such as heart disease, depression, and dementia. Hand gestures are probably the most intuitive way to communicate in a nonverbally manner. They can be used to remotely control electronic devices such as cell phones, smart watches, TVs, and personal computers. Towards this end, I have studied the use of frequency-modulated continuous-wave (FMCW) radars for physical activity recognition and hand gesture identification in multi-person scenarios. To date, most of similar applications only consider scenarios with one human being in the scene. The proposed approaches benefitted from the range discrimination capability of FMCW radars and spectral power to differentiate the exercises and the hand gestures of interest from other interferences. 
