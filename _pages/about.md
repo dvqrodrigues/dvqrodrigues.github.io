@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Microwave Circuits & Sensing Systems"
+title: "Biograph"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,5 +24,5 @@ Getting started
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 News
-------
+======
 I am looking for highly motivated students to join our group as Graduate Research Assistants. Please reach out to me if you would like to receive further information. 
