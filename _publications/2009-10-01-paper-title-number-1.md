@@ -14,4 +14,4 @@ Sample of Select Publications
 •	D. V. Q. Rodrigues, D. Zuo, Z. Tang, J. Wang, C. Gu and C. Li, “Adaptive Displacement Calibration Strategies for Field Structural Health Monitoring Based on Doppler Radars,” IEEE Transactions on Instrumentation and Measurement, vol. 69, no. 10, pp. 7813-7824, Oct. 2020, doi: 10.1109/TIM.2020.2982233.
 
 
-[Please refer to the following link for a comprehensive list of publications:](https://scholar.google.com/citations?user=rks__UkAAAAJ&hl=en&oi=ao).
+Please refer to the following link for a comprehensive list of publications:(https://scholar.google.com/citations?user=rks__UkAAAAJ&hl=en&oi=ao).
