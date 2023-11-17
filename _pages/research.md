@@ -1,11 +1,17 @@
 ---
 layout: archive
-title: "Human Behavior Recognition"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 ---
+layout: archive
+title: "Human Behavior Recognition"
+permalink: /research/
+author_profile: true
+---
+
 layout: archive
 title: "Microwave Passive Sensing Topologies"
 permalink: /research/
