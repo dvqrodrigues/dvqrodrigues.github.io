@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Microwave Circuits & Sensing Systems"
+title: "Microwave Circuits & Sensing Systems Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
