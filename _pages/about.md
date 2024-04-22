@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-The focus of of the Microwave Circuits & Sensing Systems Group at the University of Texas at El Paso has been on the design of algorithms and on the design of active/passive microwave/millimeter-wave systems for structural health monitoring, human-machine interaction, healthcare, and autonomous robots. In particular, our research aims to advance the state-of-the-art microwave/millimeter-wave sensing through the development of theory and techniques, and include:
+The focus of the Microwave Circuits & Sensing Systems Group at the University of Texas at El Paso has been on the design of algorithms and on the design of active/passive microwave/millimeter-wave systems for structural health monitoring, human-machine interaction, healthcare, and autonomous robots. In particular, our research aims to advance the state-of-the-art microwave/millimeter-wave sensing through the development of theory and techniques, and include:
 1)	The design of algorithms and methods to enable radar-based smart living, smart home, and healthcare-related applications in challenging realistic multi-target/multi-interferer scenarios, supported by both simulation and experimental studies.
 2)	The design of contactless and wearable RF-based sensors and algorithms to map health-related signals that might be detected under the human skin or due to its vibration.  
 3)	The co-design of hardware and algorithms to contribute for joint communication-sensing technologies that will be considered as a long-term strategy for the development of diverse applications enabled by beyond fifth generation (B5G) and sixth generation (6G) wireless networks.
